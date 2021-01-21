@@ -1,0 +1,1 @@
+My name is Parker Sherrill, and I am a junior Computer Science major. I am also studying Internation Business. I enjoy playing golf, working out, and producing my own music. I hope from this class I can learn more about software development and using open-source code.
