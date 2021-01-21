@@ -1,0 +1,1 @@
+I am Austin Maryanski. I am 4th year in Computer Science and Mathematics. I am currently doing nuclear research and running nuclear simulations, and have enjoyed learning more about numerical algorithms and less about software. 
