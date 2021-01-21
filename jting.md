@@ -1,0 +1,1 @@
+My name is Jonathan Ting and I'm a Senior in Computer Engineering. I'm currently working an undergrad research position under Dr. Rose, working with FPGAs and hardware security. I do most of my coding with C and C++, however I have experience with C# and Python too. I've also done some web development on the side as the Secretary of the UTK Model UN club and for fun..
