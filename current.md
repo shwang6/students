@@ -1,6 +1,6 @@
 |abanks19.md| Andrew Banks|
 |abrock14.md||
-|amcdan23.md| <h3>Adam McDaniel</h3> <ul> <li><a href="https://adam-mcdaniel.net">personal website</a></li> <li><a href="https://github.com/adam-mcdaniel">github profile and starred projects</a></li> <li><a href="https://github.com/adam-mcdaniel/chess-engine">my chess engine</a></li> <li><a href="https://github.com/adam-mcdaniel/oakc">my compiler</a></li> <li><a href="https://github.com/adam-mcdaniel/atom">my custom shell</a></li> </ul>|
+|amcdan23.md| Adam McDaniel|
 |awillif4.md| Camille Williford|
 |bbutle11.md||
 |bmingled.md| Brandon Mingledorff|
