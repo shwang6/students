@@ -1,3 +1,5 @@
+|utid|output|
+|---|---|
 |abanks19.md| Andrew Banks|
 |abrock14.md||
 |amcdan23.md| Adam McDaniel|
@@ -15,7 +17,7 @@
 |heigen.md|Henry J Eigen|
 |hjohns66.md| Holland Johnson|
 |jbyers3.md| Joshua Byers|
-|jcarmac3.md| <header> <h1>John Carmack</h1> </header> |
+|jcarmac3.md| John Carmack|
 |jgray51.md| Joshua Gray|
 |jjack113.md| Jaidin Jackson|
 |jlemon3.md| Joey Lemon|
